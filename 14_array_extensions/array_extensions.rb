@@ -30,7 +30,7 @@ class Array
 			x*x
 		end
 	end
-
+ 
 
 
 end
